@@ -5,7 +5,7 @@ Created for practice and learning purposes.
 
 ## 🔗 Live Demo
 
-[View Website](https://faizullah98.github.io/lugx_game_clone/)
+[View Website](https://faizullahhussain.github.io/lugx_game_clone/)
 
 ## 🚀 Features
 
@@ -23,4 +23,4 @@ Created for practice and learning purposes.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Faizullah98/lugx_game_clone.git
+   git clone https://github.com/faizullahhussain/lugx_game_clone.git
